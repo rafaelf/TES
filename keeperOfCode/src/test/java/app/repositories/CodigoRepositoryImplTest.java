@@ -18,7 +18,7 @@ public class CodigoRepositoryImplTest {
   		assertNotNull("put something real.", new CodigoRepositoryImpl(null));
   	}
 
-    @Test
+   
     /*  public void testBusca() {
     	Codigo c = new Codigo();
         System.out.println("Busca");

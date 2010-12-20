@@ -1,0 +1,93 @@
+.shown{
+visibility: visible;
+display:block;
+}
+
+.hidden{
+visibility: hidden;
+display: none;
+}
+
+.colunaTd_c1 {
+border-bottom: groove black 1px; 
+font-family: tahoma;
+font-size: 13px;
+background-color: #e0ecff;
+}
+
+.colunaTd_c2 {
+border-bottom: groove black 1px; 
+font-family: tahoma;
+font-size: 13px;
+background-color: #ffffff;
+}
+
+.colunaTd_c3 {
+border-bottom: groove black 1px; 
+font-family: tahoma;
+font-size: 13px;
+background-color: #66CC00;
+}
+
+.colunaTd_Title {
+border-bottom: groove black 1px; 
+font-family: tahoma;
+font-weight: bold;
+font-size: 14px;
+background-color: #9ebef5;
+
+}
+
+
+h2 {
+font-family: tahoma;
+}
+
+font {
+font-family: tahoma;
+}
+
+TD {
+font-family: tahoma;
+font-size: 12px;
+}
+
+
+.footerPage {
+font-family: tahoma;
+font-size: 11px;
+}
+
+.tabelaFiltro {
+  border:0;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0;
+  border-spacing:1;
+  border-style:solid; 
+  border-width:0.02cm;
+}
+
+.tabelaMaiorFiltro {
+  width:850px;
+  border:0;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0;
+  border-spacing:1;
+  border-style:solid; 
+  border-width:0.02cm;
+}
+
+.td_titulo_pagina {
+border-bottom: groove black 1px; 
+background-color: #6699cc;
+text-align:center;
+font-family: tahoma;
+font-size: 14px;
+font-weight: bold;
+color:white;
+}
+ 
